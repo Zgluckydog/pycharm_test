@@ -1,0 +1,29 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# PyCharm specific files
+.idea/
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# Python distribution
+*.egg-info/
+*.dist-info/
+.eggs/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code specific files
+.vscode/
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
