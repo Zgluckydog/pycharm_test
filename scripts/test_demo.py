@@ -10,3 +10,5 @@ class TestDemo:
         assert True
     def test_d(self):
         assert True
+    def test_e(self):
+        assert True
