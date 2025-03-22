@@ -8,3 +8,5 @@ class TestDemo:
 
     def test_c(self):
         assert True
+    def test_d(self):
+        assert True
