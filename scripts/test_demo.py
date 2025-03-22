@@ -5,3 +5,6 @@ class TestDemo:
         assert True
     def test_b(self):
         assert True
+
+    def test_c(self):
+        assert True
